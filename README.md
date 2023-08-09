@@ -23,7 +23,8 @@ Simplifying environment management, we've implemented a centralized configuratio
 ## Getting Started 🚀
 
 1.Clone this repository.
-2.Navigate to the project directory and run npm install to install dependencies. 3. Start the development server by executing npm run dev.
+2.Navigate to the project directory and run npm install to install dependencies.
+3.Start the development server by executing npm run dev.
 
 # In watch mode
 
